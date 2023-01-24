@@ -3,8 +3,6 @@
 In this repository we added the resultant data, figures and other files from LATTE.
 
 LATTE: https://github.com/noraeisner/LATTE  
-VESPA: https://github.com/timothydmorton/VESPA  
-TRICERATOPS: https://github.com/stevengiacalone/triceratops  
 
 ## List of selected targets
 * TOI 139 (Planet)
