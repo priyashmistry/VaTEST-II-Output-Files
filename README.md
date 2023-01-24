@@ -1,6 +1,6 @@
 <h1><img align="center" height="150" src="https://github.com/priyashmistry/VaTEST-II-Output-Files/blob/main/Logo/download.png"> VaTEST II : Output-Data</h1>
 
-In this repository we added the resultant data, figures and other files from LATTE, VESPA & TRICERATOPS.
+In this repository we added the resultant data, figures and other files from LATTE.
 
 LATTE: https://github.com/noraeisner/LATTE  
 VESPA: https://github.com/timothydmorton/VESPA  
