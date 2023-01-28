@@ -1,10 +1,10 @@
 <h1><img align="center" height="150" src="https://github.com/priyashmistry/VaTEST-II-Output-Files/blob/main/Logo/download.png"> VaTEST II : Output-Data</h1>
 
-In this repository we added the resultant data, figures and other files from LATTE, VESPA & TRICERATOPS.
+Website: https://sites.google.com/view/project-vatest/home
+
+In this repository we added the resultant data, figures and other files from LATTE.
 
 LATTE: https://github.com/noraeisner/LATTE  
-VESPA: https://github.com/timothydmorton/VESPA  
-TRICERATOPS: https://github.com/stevengiacalone/triceratops  
 
 ## List of selected targets
 * TOI 139 (Planet)
