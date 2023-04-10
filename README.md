@@ -5,7 +5,6 @@ Website: https://sites.google.com/view/project-vatest/home
 In this repository we added the resultant data, figures and other files from LATTE, as well as input files for VESPA and TRICERATOP. Details for installing and running VESPA and TRICERATOPS can be found here,
 
 LATTE: https://github.com/noraeisner/LATTE  
-VESPA: https://github.com/timothydmorton/VESPA   
 TRICERATOPS: https://github.com/stevengiacalone/triceratops  
 
 ## List of selected targets
